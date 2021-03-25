@@ -1,7 +1,29 @@
-# Multi-User-Blog
+# Python Blog
 
-- Blog Link:  https://my-blog-169620.appspot.com/
+Highlights:
+- User Login and Signup
+- New Posts
+- Edit Posts
+- Delete Posts
+- Like/Unlike Posts
+- Comment on Posts
+- Routes
+- Responsive Mobile Design
+- User Permissions
 
-Highlights: User Login and Signup, New Posts, Edit posts, Delete Posts, Like/Unlike Posts, Comment on Posts, Responsive Mobile Design, User permissions are enforced.
+----- ----- ----- ----- -----
 
-Technoloy: Python, HTML, CSS, Bootstrap
+Tech Stack:
+- Python
+- Flask
+- Jinja2 Template
+- CSS
+- Bootstrap
+- HTML
+- Google App Engine Backend
+- Google Login
+- Facebook Login
+
+----- ----- ----- ----- -----
+
+Programmed by Nicholas Blackburn in 2017
